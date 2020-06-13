@@ -57,11 +57,14 @@ Used as the default branch in Git along with many other
   and [Nat Friedman has said on twitter](https://twitter.com/natfriedman/status/1271253144442253312)
   that GitHub is working on renaming the default branch.
 
+
 Beyond this, it is already possible for you to change the default branch
 of your repostories on GitHub
 (and most other Git platforms).
 Simply push a branch with the new name you would like,
 and change repository settings.
+If you have a lot of GitHub repositories to deal with,
+[here is a tool to do it automatically using the API](https://github.com/lf-/splice_graft).
 
 ### `master` / `slave`
 
