@@ -85,6 +85,7 @@ of the relationship between different entities in a system:
 **Where are these changes happening?**
 
 * [Python](https://bugs.python.org/issue34605)
+* [Go](https://go-review.googlesource.com/c/go/+/236857/)
 
 ### `blacklist` / `whitelist`
 
