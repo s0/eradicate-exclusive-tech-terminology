@@ -93,6 +93,12 @@ of the relationship between different entities in a system:
 
 * [Ruby on Rails](https://github.com/rails/rails/issues/33677)
 
+### `man in the middle`
+
+**Alternatives:**
+
+* `meddler in the middle`, `monster in the middle`
+
 ## FAQ
 
 ### Does this really matter?
