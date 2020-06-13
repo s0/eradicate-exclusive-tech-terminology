@@ -10,5 +10,8 @@ to the greatest extent possible,
 on technology projects that we maintain or contribute to,
 as laid-out in the [README](README.md) of this repository.
 
-* [Sam Lanning](https://github.com/s0)
 * [Beka Valentine](https://github.com/BekaValentine)
+* [Rey Bango](https://github.com/reybango)
+* [Sam Lanning](https://github.com/s0)
+
+<!-- Please sign in alphabetical order to reduce conflicts -->
