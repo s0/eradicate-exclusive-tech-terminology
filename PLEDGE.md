@@ -11,3 +11,4 @@ on technology projects that we maintain or contribute to,
 as laid-out in the [README](README.md) of this repository.
 
 * [Sam Lanning](https://github.com/s0)
+* [Rey Bango](https://github.com/reybango)
