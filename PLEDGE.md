@@ -10,6 +10,7 @@ to the greatest extent possible,
 on technology projects that we maintain or contribute to,
 as laid-out in the [README](README.md) of this repository.
 
+* [Aram Drevekenin](https://github.com/imsnif)
 * [Beka Valentine](https://github.com/BekaValentine)
 * [Rey Bango](https://github.com/reybango)
 * [Sam Lanning](https://github.com/s0)
