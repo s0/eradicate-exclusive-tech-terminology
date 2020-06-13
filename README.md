@@ -95,6 +95,9 @@ of the relationship between different entities in a system:
 **Where are these changes happening?**
 
 * [Ruby on Rails](https://github.com/rails/rails/issues/33677)
+* [Go](https://go-review.googlesource.com/c/go/+/236857/)
+* [Angular](https://github.com/angular/angular/pull/28529)
+* [Chromium](https://bugs.chromium.org/p/chromium/issues/detail?id=981129)
 
 ### `man in the middle`
 
