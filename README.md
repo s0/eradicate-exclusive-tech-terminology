@@ -24,6 +24,15 @@ As Clockwork say [in their blog post](https://www.clockwork.com/news/creating-in
 > at worst, deeply offensive and at best entirely unnecessary.
 > So let’s change it.
 
+## [Pledge](PLEDGE.md)
+
+If you would like to publically indicate your support of this initiative,
+and take a pledge to commit to replacing excludive terminology wherever you can,
+please feel free to submit a pull request
+adding yourself to [this document](PLEDGE.md).
+
+Any contributions are subject to our [Contributing document](CONTRIBUTING.md).
+
 ## Terms
 
 ### `master`
@@ -125,14 +134,15 @@ some of them have helped inspire this document:
 
 ## Contributions
 
-We welcome PRs in this repository that expand this resource with:
+We welcome Pull Requests that:
 
-* Additional terms that should be avoided, with alternatives offered.
-* Examples of technical
+* Sign the [pledge](PLEDGE.md).
+* Add additional terms that should be avoided, with alternatives offered.
+* Add examples of technical
   (software, hardware, engineering, etc...)
   projects or products
   that have decided to make these changes.
-* Expansion of the FAQ or any other textual elements.
+* Expand the FAQ or any other textual elements.
 
 Please note that this project is released with a
 [Contributor Code of Conduct](CODE_OF_CONDUCT.md).
