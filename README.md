@@ -1,5 +1,7 @@
 # :fist: [CTA] Let's Eradicate Exclusive Terminology in Tech! :fist:
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+
 <!-- PLEASE USE SEMANTIC LINE BREAKS IN THIS DOCUMENT: https://sembr.org/ -->
 
 There are a number of words that we use
@@ -132,4 +134,6 @@ We welcome PRs in this repository that expand this resource with:
   that have decided to make these changes.
 * Expansion of the FAQ or any other textual elements.
 
-
+Please note that this project is released with a
+[Contributor Code of Conduct](CODE_OF_CONDUCT.md).
+By participating in this project you agree to abide by its terms.
