@@ -27,7 +27,7 @@ As Clockwork say [in their blog post](https://www.clockwork.com/news/creating-in
 ## [Pledge](PLEDGE.md)
 
 If you would like to publically indicate your support of this initiative,
-and take a pledge to commit to replacing excludive terminology wherever you can,
+and take a pledge to commit to replacing exclusive terminology wherever you can,
 please feel free to submit a pull request
 adding yourself to [this document](PLEDGE.md).
 
@@ -86,6 +86,11 @@ of the relationship between different entities in a system:
 
 * [Python](https://bugs.python.org/issue34605)
 * [Go](https://go-review.googlesource.com/c/go/+/236857/)
+
+### `master` / `detail` (UI Pattern)
+
+**Alternatives:**
+`index` / `detail`
 
 ### `blacklist` / `whitelist`
 
