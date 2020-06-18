@@ -92,6 +92,12 @@ of the relationship between different entities in a system:
 **Alternatives:**
 `index` / `detail`
 
+### `male` / `female` (connectors, fasteners)
+
+**Alternatives:**
+`plug` / `socket`
+`plug` / `jack`
+
 ### `blacklist` / `whitelist`
 
 **Alternatives:**
