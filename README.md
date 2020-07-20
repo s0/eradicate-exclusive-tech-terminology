@@ -56,6 +56,7 @@ Used as the default branch in Git along with many other
   There is an [open issue on GitLab](https://gitlab.com/gitlab-org/gitlab/-/issues/221164),
   and [Nat Friedman has said on twitter](https://twitter.com/natfriedman/status/1271253144442253312)
   that GitHub is working on renaming the default branch.
+  See the [github/renaming](https://github.com/github/renaming) repository for more info.
 
 
 Beyond this, it is already possible for you to change the default branch
