@@ -14,6 +14,7 @@ as laid-out in the [README](README.md) of this repository.
 * [Beka Valentine](https://github.com/BekaValentine)
 * [Rey Bango](https://github.com/reybango)
 * [Sam Lanning](https://github.com/s0)
+* [Steven (@styfle)](https://github.com/styfle)
 * [Timothée Jemine](https://github.com/wylarel)
 * [Xavier René-Corail](https://github.com/xcorail)
 
