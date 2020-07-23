@@ -122,7 +122,7 @@ of the relationship between different entities in a system:
 
 ### Does this really matter?
 
-If you care about inclusitivy... Yes.
+If you care about inclusivity... Yes.
 
 ### But the origin of these terms aren't racist?
 
